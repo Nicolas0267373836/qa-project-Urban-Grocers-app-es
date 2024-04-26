@@ -30,5 +30,5 @@ def create_client_kit(kit_body):
                          headers=headers)
 
 
-def first_name():
+def kit_name_response():
     return "John"
