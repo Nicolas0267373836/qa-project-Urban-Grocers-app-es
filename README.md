@@ -1,14 +1,14 @@
 # Proyecto Urban Grocers 
 
-# Pruebas para el parámetro firstName al crear un kit en []
+# Requisitos para el parámetro nombre de kit al crear un kit
 - Necesitas tener instalados los paquetes pytest y request para ejecutar las pruebas.
 - Ejecuta todas las pruebas con el comando pytest.
 
-# Pruebas para el parametro firstName al crear un kit personal para el usuario/a en []
+# Requisitos para el parametro nombre de kit al crear un kit personal para el usuario/a
 - Necesitas tener instalados los paquetes pytest y request para ejecutar las pruebas.
 - Ejecuta todas las pruebas con el comando pytest.
 
-# Pruebas para la lista de comprobación de pruebas en []
+# Requisitos para la lista de comprobación de pruebas
 - Necesitas tener instalados los paquetes pytest y request para ejecutar las pruebas.
 - Ejecuta todas las pruebas con el comando pytest.
 - Crear la función negative_assert_no_first_name()
